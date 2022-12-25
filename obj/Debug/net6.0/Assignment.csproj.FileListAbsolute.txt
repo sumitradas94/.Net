@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\246\ProgramA\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\sande\source\repos\246\ProgramA\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\sande\source\repos\246\ProgramA\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\sande\source\repos\246\ProgramA\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\sande\source\repos\246\ProgramA\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\sande\source\repos\246\ProgramA\Assignment\obj\Debug\net6.0\ref\Assignment.dll
